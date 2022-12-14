@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Sodaz\'s blog',
+  name: 'Sodaz\'s Blog',
   domain: 'blog.sodaz.xyz',
   author: 'Sodaz',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Sodaz\'s Blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
